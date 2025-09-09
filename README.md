@@ -1,79 +1,54 @@
-# 👋 Hola, soy Michael Jurado
-
-🎯 **Objetivo profesional:** Convertirme en Analista de Ciberseguridad (Blue Team)  
-🔐 Actualmente me estoy preparando para proteger entornos digitales mediante el análisis de incidentes, gestión de vulnerabilidades y defensa de sistemas.
+# 👋 Hola, soy Michael Jurado  
+🎯 Future SOC Analyst | Blue Team Enthusiast | Detection & Response Labs  
 
 ---
 
 ## 🛡️ Certificaciones
-
-- ✅ **CompTIA Security+ (SY0-701)** *(en preparación, examen estimado: verano 2025)*
-- ✅ **Microsoft SC-900: Security, Compliance, and Identity Fundamentals**
-- 🎓 **Grado en Ciencias de la Computación** – University of the People
-
----
-
-## 💼 Experiencia práctica
-
-- 🧠 Más de **7 laboratorios completados en Hack The Box** (Starting Point completo, 5 Easy rooms, 2 Sherlock)
-- 🔍 Realizando labs de **Wazuh, análisis de logs y detección de amenazas**
-- ⚙️ Conocimientos en **Linux, redes, firewalls, control de accesos y políticas de seguridad**
-- 👨‍💻 Background en desarrollo backend y frontend (Laravel, Spring Boot, React, Next.js, APIs REST)
+- 🛡️ Microsoft SC-900: Security, Compliance, and Identity Fundamentals  
+- 🔒 CompTIA Security+ (SY0-701) *(en preparación, verano 2025)*  
+- 🎓 Grado en Ciencias de la Computación – University of the People  
 
 ---
 
-## 💼 Experiencia freelance
+## 💼 Experiencia práctica en ciberseguridad
+- 🔥 Proyecto **Mini-SOC casero** con Wazuh SIEM + Cowrie honeypot + Sysmon + Suricata  
+  → Detección end-to-end con múltiples fuentes de logs, reglas MITRE ATT&CK, dashboards en Kibana  
+  → Documentación pública + demo en GitHub  
 
-He trabajado como freelance en proyectos web y backend para clientes de Europa y América Latina, entregando soluciones funcionales y seguras.
-
-🔗 [Ver mi perfil en Freelancer.com](https://www.freelancer.com/u/mikjuradoTECH)
-
-🧾 Valoraciones destacadas:
-- ⭐⭐⭐⭐⭐ *“Siempre a tiempo y con calidad”* – 🇪🇸 Cliente en Madrid  
-- ⭐⭐⭐⭐⭐ *“Muy profesional y con tiempos de entrega excelentes”* – 🇲🇽 Cliente en Ciudad de México  
-- ⭐⭐⭐⭐⭐ *“Michael wrote a trading strategy code… I will definitely use his services again”* – 🇬🇧 Cliente en Reino Unido
-
-📌 Tecnologías utilizadas:  
-WordPress · CakePHP · MySQL · HTML · APIs REST · Python · R
+- 🧠 Hack The Box: Starting Point completo + 5 máquinas Easy + 2 Sherlock  
+- 🧪 TryHackMe: Labs de Blue Team & Threat Detection  
+- ⚙️ Linux, redes, hardening, firewalls, control de accesos  
 
 ---
 
-## 🔒 Proyectos de ciberseguridad (próximamente)
-
-- `writeups-htb`: Repositorio con análisis técnico y aprendizajes de Hack The Box
-
----
-
-## 🌐 Idiomas
-
-- 🇪🇸 Español: Nativo  
-- 🇫🇷 Francés: Fluido (nivel profesional)  
-- 🇬🇧 Inglés: Fluido (técnico y conversacional)
+## 🌍 Experiencia freelance (desarrollo y soporte IT)
+- Proyectos web y backend en Europa y LATAM (Laravel, Spring Boot, React, APIs REST)  
+- Soporte técnico a clientes, gestión de incidencias, automatización de tareas  
+- Valoraciones 5⭐ en [Freelancer.com](https://www.freelancer.com/u/mikjuradoTECH)  
 
 ---
 
 ## 🚀 Actualmente aprendiendo
-
-- 🛡️ Seguridad defensiva (detección de amenazas, SIEM, hardening)
-- 📊 Análisis forense básico y respuesta a incidentes
-- 🐧 Comandos avanzados en Linux
-- ☁️ Seguridad en la nube (Azure AD, SC-900, configuración segura)
+- Blue Team: SIEM, respuesta a incidentes, análisis forense básico  
+- ☁️ Seguridad en la nube (Azure AD, SC-900)  
+- 🐧 Comandos avanzados en Linux  
 
 ---
 
-## 🧠 Objetivo 2025-2026
-
-Conseguir mi primer puesto como **analista de ciberseguridad junior** en España.  
-Estoy enfocado en mejorar mis habilidades técnicas, visibilidad profesional y continuar aprendiendo de forma constante.
+## 🌐 Idiomas
+- 🇪🇸 Español: Nativo  
+- 🇫🇷 Francés: Fluido (profesional)  
+- 🇬🇧 Inglés: Fluido (técnico y conversacional)  
+🌍 Trilingüe · Comunicación efectiva en entornos multiculturales  
 
 ---
 
 ## 📫 Contacto
-
-- [LinkedIn](https://www.linkedin.com/in/mikjurado/)
-- [Freelancer](https://www.freelancer.com/u/mikjuradoTECH)
+- ✉️ mjcybersec@proton.me  
+- [LinkedIn](https://www.linkedin.com/in/mikjurado/)  
+- [Freelancer](https://www.freelancer.com/u/mikjuradoTECH)  
 
 ---
+> 💬 *“La ciberseguridad no es solo tecnología: es anticipación, disciplina y responsabilidad digital.”*
 
-> 💬 *“La ciberseguridad no es solo tecnología. Es anticipación, disciplina y responsabilidad digital.”*
 
