@@ -44,7 +44,7 @@
 ---
 
 ## 📫 Contacto
-- ✉️ mjcybersec@proton.me  
+- ✉️ mikjurado1@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/mikjurado/)  
 - [Freelancer](https://www.freelancer.com/u/mikjuradoTECH)  
 
